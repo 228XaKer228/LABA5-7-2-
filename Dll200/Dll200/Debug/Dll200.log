@@ -1,0 +1,6 @@
+﻿  pch.cpp
+C:\Users\sasha\OneDrive\Рабочий стол\Dll200\Dll200\pch.cpp(9,2): warning C4273: MathOperation::MyOperations::Raz: несовместимая компоновка dll
+C:\Users\sasha\OneDrive\Рабочий стол\Dll200\Dll200\Header.h(16,29): message : см. предыдущее определение "Raz"
+  dllmain.cpp
+     Создается библиотека C:\Users\sasha\OneDrive\Рабочий стол\Dll200\Debug\Dll200.lib и объект C:\Users\sasha\OneDrive\Рабочий стол\Dll200\Debug\Dll200.exp
+  Dll200.vcxproj -> C:\Users\sasha\OneDrive\Рабочий стол\Dll200\Debug\Dll200.dll

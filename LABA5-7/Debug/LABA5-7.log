@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (LABA5-7.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MyForm.cpp
+C:\Users\Илья\Desktop\LABA5-7 — копия (2)\LABA5-7\MyForm1.h(249,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Илья\Desktop\LABA5-7 — копия (2)\LABA5-7\MyForm1.h(250,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  MyForm1.cpp
+C:\Users\Илья\Desktop\LABA5-7 — копия (2)\LABA5-7\MyForm.cpp(9,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\Илья\Desktop\LABA5-7 — копия (2)\LABA5-7\MyForm1.h(249,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  MyForm2.cpp
+C:\Users\Илья\Desktop\LABA5-7 — копия (2)\LABA5-7\MyForm1.h(250,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Илья\Desktop\LABA5-7 — копия (2)\LABA5-7\MyForm1.h(249,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  MyForm3.cpp
+C:\Users\Илья\Desktop\LABA5-7 — копия (2)\LABA5-7\MyForm1.h(250,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Илья\Desktop\LABA5-7 — копия (2)\LABA5-7\MyForm1.h(249,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+C:\Users\Илья\Desktop\LABA5-7 — копия (2)\LABA5-7\MyForm1.h(250,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  LABA5-7.vcxproj -> C:\Users\Илья\Desktop\LABA5-7 — копия (2)\Debug\LABA57.exe
